@@ -1,0 +1,24 @@
+{
+  "name": "readme",
+  "version": "0.1.0",
+  "description": "Readme Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "util": "^0.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phill-star/Terminal-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phill-star/Terminal-app/issues"
+  },
+  "homepage": "https://github.com/phill-star/Terminal-app#readme"
+}
