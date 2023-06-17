@@ -13,11 +13,6 @@ function userInput() {
             choices: ["Academic Free License v3.0", "Apache license 2.0", "Artistic license 2.0", /*...other license choices...*/]
         },
         {
-           name: 'title',
-           message: 'What is the title of this application?',
-           type: 'input'
-        },
-        {
             name: 'description',
             message: 'What does this application do?',
             type: 'input'
@@ -46,7 +41,7 @@ function userInput() {
       {
     
            name: 'Installation',
-           message: 'How do I Installation this application?',
+           message: 'How do I install this application?',
            type: 'input'
     }, 
         {
@@ -54,7 +49,7 @@ function userInput() {
             message: 'How do I contribute to this application?',
             type: 'input'
         },
-        {name: 'fileName',
+        {name: 'title',
         message: 'What do you want to call this readme?',
         type: 'input'},
     ])};
