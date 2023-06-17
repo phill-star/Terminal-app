@@ -38,6 +38,18 @@ function userInput() {
             type: 'input'
         },
         {
+    
+           name: 'usage',
+           message: 'How do I use this application?',
+           type: 'input'
+      },
+      {
+    
+           name: 'Installation',
+           message: 'How do I Installation this application?',
+           type: 'input'
+    }, 
+        {
             name: 'contributing',
             message: 'How do I contribute to this application?',
             type: 'input'
