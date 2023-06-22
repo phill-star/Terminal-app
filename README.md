@@ -1,3 +1,16 @@
+
+This project was intended to generate a rReadMe file 
+
+You can use the terminal & cd into the right directory to access the files 
+
+Type node index to begin the process 
+
+Based on user input it will generate a mark down readme file 
+
+
+
+
+
 sample
 Badges
 License: AFL-3.0
