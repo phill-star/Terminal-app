@@ -27,7 +27,7 @@ License
 Read more about Academic Free License v3.0 here: Academic Free License v3.0
 
 Description
-[https://drive.google.com/drive/my-drive ](https://drive.google.com/file/d/1hlmSOtHbQdkuMFHk5ZBSawUkxfGzHQ0j/viewLinks to an external site.)
+(https://drive.google.com/file/d/1hlmSOtHbQdkuMFHk5ZBSawUkxfGzHQ0j/viewLinks to an external site.)
 generate a readme
 
 Installation
